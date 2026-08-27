@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aprajita Yadav
 
-### 💻 Computer Science Engineering Student | AI/ML Enthusiast | Developer
+### 💻 Computer Science Engineering Student | 
 
 I'm a B.Tech CSE student passionate about building practical projects
 using AI, Machine Learning, Computer Vision and Web Development.
